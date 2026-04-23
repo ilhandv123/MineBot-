@@ -1,0 +1,6 @@
+{
+  "name": "ilhanbot",
+  "dependencies": {
+    "mineflayer": "^4.14.0"
+  }
+}
